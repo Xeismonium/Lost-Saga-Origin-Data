@@ -1,0 +1,17 @@
+
+[common]
+
+growth_info_cnt = 1
+
+;-------------------------------------------------// ¡¶ø’ ≈ı±∏
+[growth_info_1]
+growth_info_num = 21182
+
+type = 8
+name =STR(1)
+
+max_value_section1 = 135.0f
+max_value_section2 = 110.0f
+max_value_section3 = 90.0f
+
+max_value_section1_gap = 100

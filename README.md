@@ -1,0 +1,1 @@
+Just data game from from **rs.iop** and **map.iop**
